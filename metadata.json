@@ -1,0 +1,6 @@
+{
+  "name": "POSTEERLLY",
+  "description": "Express Your Space — Premium Modern Poster Brand & E-Commerce Store",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
